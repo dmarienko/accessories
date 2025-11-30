@@ -1,0 +1,64 @@
+.vscode-dark a {
+	color: #61AFEF;
+}
+
+.vscode-dark p {
+	color: #afafaf;
+}
+
+.vscode-dark .katex-block {
+	color: #e0e0e0 !important;
+}
+
+/* .vscode-dark .katex {
+	color: rgb(255, 255, 255) !important;
+	font-family: 'Maple Mono NF', Tahoma, Geneva, Verdana, sans-serif !important;
+} */
+.vscode-dark table, td, tr { 
+	border: 1px solid #55554a85; 
+	border-collapse: collapse; color: #859548d9 !important; 
+} 
+.vscode-dark th { 
+	border: 1px solid #55554a85; border-collapse: collapse; background-color: #010101 !important; color: #177 !important; 
+} 
+
+.vscode-dark h1,
+.vscode-dark h2,
+.vscode-dark h3,
+.vscode-dark h4,
+.vscode-dark h5,
+.vscode-dark h6 {
+	font-weight: 600;
+	color: #dc7f2f;
+}
+
+.vscode-dark,
+.vscode-dark pre code {
+	color: #ABB2BF;
+}
+
+.vscode-dark code {
+	color: #90C378;
+}
+
+.vscode-dark pre:not(.hljs),
+.vscode-dark code>div {
+	background-color: #2C323C;
+}
+
+.vscode-dark table>thead>tr>th {
+	border-color: #2C323C;
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table>tbody>tr+tr>td {
+	border-color: #2C323C;
+}
+
+.vscode-dark blockquote {
+	color: #5C6370;
+	font-style: italic;
+	background: transparent;
+	border-color: #2C323C;
+}
