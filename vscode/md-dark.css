@@ -22,14 +22,34 @@
 	border: 1px solid #55554a85; border-collapse: collapse; background-color: #010101 !important; color: #177 !important; 
 } 
 
-.vscode-dark h1,
-.vscode-dark h2,
-.vscode-dark h3,
-.vscode-dark h4,
-.vscode-dark h5,
+.vscode-dark h1 {
+    font-weight: 600;
+    color: #ff6d41;
+}
+
+.vscode-dark h2 {
+    font-weight: 600;
+    color: #ff8a6e;
+}
+
+.vscode-dark h3 {
+    font-weight: 600;
+    color: #ff7cc1;
+}
+
+.vscode-dark h4 {
+    font-weight: 600;
+    color: #d76dff;
+}
+
+.vscode-dark h5 {
+    font-weight: 600;
+    color: #9a6dff;
+}
+
 .vscode-dark h6 {
-	font-weight: 600;
-	color: #dc7f2f;
+    font-weight: 600;
+    color: #6d8aff;
 }
 
 .vscode-dark,
